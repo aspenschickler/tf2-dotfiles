@@ -2,7 +2,7 @@
 
 ## Installation
 
-Copy `custom` and `cfg` folders to TF2 install location.
+Copy `custom` and `cfg` folder contents to TF2 install location.
 
 Don't forget to add the following to Steam launch options:
 ```
@@ -10,4 +10,4 @@ Don't forget to add the following to Steam launch options:
 ```
 
 ## Todo
-- Add hitsounds
+- Fix `hitsound.wav`
